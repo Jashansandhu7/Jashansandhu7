@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Jashansandhu7/Jashansandhu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h2>STUDENT || UPES'26-CSE</h2>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working with Python
+- 🌱 I’m currently learning Data Structures and Algorithms in C
+- 📫 How to reach me: Jashansandhu1604@gmail.com
+- 😄 Pronouns: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img src="https://github-readme-stats.vercel.app/api?username=Jashansandhu7&show_icons=true"/>
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jashansandhu7&theme=chartreuse-dark&border_radius=5.6&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
