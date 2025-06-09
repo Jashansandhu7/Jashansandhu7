@@ -3,8 +3,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2>STUDENT || UPES'26-CSE</h2>
 
-- 🔭 I’m currently working with Python
-- 🌱 I’m currently learning Data Structures and Algorithms in C
+- 🔭 I’m currently pursuing Cyber Security
+- 🌱 I’m currently learning Data Structures and Algorithms in C and C++
 - 📫 How to reach me: Jashansandhu1604@gmail.com
 - 😄 Pronouns: he/him
 
